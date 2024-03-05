@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bill,</h1>
 <h3 align="left">A passionate frontend developer based in Taiwan</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portfolio Page</h3>
+<h4 align="left">https://portfolio.houseofthe.app/</h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,5 +39,3 @@
   <a href="https://nextjs.dev/" target="_blank" rel="noreferrer">
    <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="typescript" width="40" height="40" />
    </a>
-
-
